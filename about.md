@@ -8,5 +8,5 @@ There are two main features in this app:
 
 ## Links
 
-- [GitHub Page](https://www.generalmills.com/en/Brands/Cereals/cinnamon-toast-crunch)
+- [GitHub Page](https://github.com/aaronxsu/Philly-Crimes-R)
 - [Data Source](https://github.com/aaronxsu/Crimes-In-Philly/blob/master/js/crimesTract.js)
